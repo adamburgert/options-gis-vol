@@ -1,4 +1,4 @@
-,Call Train,Put Train,Call Test,Put Test,Mean
+,ANN Call Train,ANN Put Train,ANN Call Test,ANN Put Test,Mean
 "(240n, no v)",24.9423,20.7421,25.4796,25.7094,24.2183
 "(800n, no v)",12.9898,11.2421,20.3083,25.0397,17.3950
 "(1500n, no v)",12.7870,20.7408,22.6781,24.5559,20.1905

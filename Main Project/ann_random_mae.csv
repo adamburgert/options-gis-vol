@@ -1,0 +1,5 @@
+,ANN Call Train + Random-search,ANN Put Train + Random-search,ANN Call Test + Random-search,ANN Put Test + Random-search
+( no v - Adam),0.0758,0.0852,0.2746,0.2756
+( no v - SGD),0.1839,0.1668,0.2284,0.2365
+( with 21d v - Adam),0.0173,0.0206,0.2286,0.2152
+( with 21d v - SGD),0.0231,0.0223,0.2184,0.2032
